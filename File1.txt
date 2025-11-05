@@ -1,1 +1,2 @@
 Continutul pentru file1
+linie noua pentru no-ff
