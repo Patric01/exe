@@ -1,2 +1,1 @@
-Continutul pentru file1
-O linie noua in File1 de pe topic
+Versiune Topic
