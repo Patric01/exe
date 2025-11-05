@@ -1,2 +1,6 @@
 Continutul pentru file1
+<<<<<<< HEAD
 O linie noua in File1 de pe topic
+=======
+linie noua pentru no-ff
+>>>>>>> topic-noff
